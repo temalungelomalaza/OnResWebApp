@@ -12,7 +12,7 @@ OnRes will include the following web pages and functionalities
    - provides brief description of the system as well as some images of the university dorms
    
 3. User Profile
-   - displays inofrmation of student ; full anme, student ID, Year of study, gender and credit balances
+   - displays inofrmation of student ; full name, student ID, Year of study, gender and credit balances
      
 4. Report dysfuntions
    - this page will allow students to lodge complaints about their rooms; broken or faulty utilities
