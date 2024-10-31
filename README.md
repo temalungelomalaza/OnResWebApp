@@ -6,7 +6,7 @@ The system stores registered students' accommodation data including their assign
 The system has 2 sub structures: frontend & backend
 ## Frontend
 OnRes will include the following web pages and functionalities
-1. Home Page/Landing Page
+1. Home Page/Landing Page 
    -has login / register popups
    -provides brief description of the system as well as some images of the university dorms
 2. User Profile
