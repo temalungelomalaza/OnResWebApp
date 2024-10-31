@@ -2,8 +2,8 @@
 This system is a protoype of an online portal for the management of on-campus accommodation for full-time students. 
 The system stores registered students' accommodation data including their assigned rooms, related debit and credit records and complaints about the assigned room, inorder to achieve seamless and easier management on students living on-campus and tracking all accommodation services.
 
-##STURCTURE OF SYSTEM
-##Frontend
+## STURCTURE OF SYSTEM
+## Frontend
 OnRes will include the following web pages and functionalities
 1. Home Page/Landing Page
    -has login / register popups
@@ -13,6 +13,6 @@ OnRes will include the following web pages and functionalities
 3. Report dysfuntions
    - this page will allow students to lodge complaints about their rooms; broken or faulty utilities
   
-     ##BACKEND
+     ## BACKEND
      The backend of this system runs on Flask, which is an open source API, plus MySQL, which is a relational database management system.
      Flask allows the querying of the databse using Python, suitably connecting requests and responses between the user interface and database.
